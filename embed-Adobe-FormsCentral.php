@@ -4,7 +4,7 @@ Description: Easily Embed Adobe FormsCentral forms in your posts, pages, and cus
 Author: forlogos
 Author URI: https://jasonjalbuena.com/
 Requires at least: 4.1
-Version: 1.0
+Version: 0
 */
 
 class flgs_embed_adobe_formscentral {
